@@ -34,7 +34,9 @@ An ESP32-based comprehensive water quality monitoring system designed for aquari
 - 16x2 I2C LCD Display
 - DS3231 RTC Module
 - SD Card Module
-- Active Buzzer
+- Passive Buzzer
+- Push Button (for switching LCD display modes)
+- 9V Power Adapter
 
 ## Installation
 
