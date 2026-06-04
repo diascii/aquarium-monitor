@@ -4,6 +4,12 @@
 
 An ESP32-based comprehensive water quality monitoring system designed for aquariums. This system continuously reads sensor data, logs historical records, and provides a fully-featured local web dashboard.
 
+## Preview
+
+![Web Dashboard](assets/web_dashboard.png)
+![Hardware Setup](assets/device_open.jpeg)
+![Aquarium Integration](assets/aquarium_setup.jpeg)
+
 ## Features
 - **Real-Time Web Dashboard**: View live data through an elegant web interface hosted directly on the ESP32.
 - **Sensor Integration**: 
@@ -17,6 +23,9 @@ An ESP32-based comprehensive water quality monitoring system designed for aquari
 - **Data Export**: Download CSV logs directly from the dashboard for a single day, the past 7 days, or all historical data.
 
 ## Hardware Requirements
+
+![Wiring Schematic](assets/schematic.png)
+
 - ESP32 Microcontroller
 - DS18B20 Temperature Sensor
 - Analog Turbidity Sensor
