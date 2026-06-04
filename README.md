@@ -1,5 +1,7 @@
 # IoT Aquarium Water Quality Monitor
 
+> **Note:** This repository contains the software implementation for my Final Year Project (Tugas Akhir) at Institut Pertanian Bogor (IPB).
+
 An ESP32-based comprehensive water quality monitoring system designed for aquariums. This system continuously reads sensor data, logs historical records, and provides a fully-featured local web dashboard.
 
 ## Features
